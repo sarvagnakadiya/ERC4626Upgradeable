@@ -1,0 +1,19 @@
+[
+  {
+    "contractName": "LiquidTokens",
+    "network": "hardhat",
+    "timestamp": "2023-10-31T12:14:57.393Z",
+    "contractAddress": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+  },
+  {
+    "contractName": "LiquidTokens",
+    "network": "mumbai",
+    "timestamp": "2023-10-31T12:15:18.205Z",
+    "contractAddress": "0xF4B4668695a8C10F06Dc5d9Cc3289C5b6F381736"
+  },
+  {
+    "contractName": "Vault",
+    "network": "mumbai",
+    "contractAddress": "0x2a359514Feadde09b46734FeC7B1fA8c1f8D5447"
+  }
+]
